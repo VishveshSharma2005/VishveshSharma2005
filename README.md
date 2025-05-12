@@ -72,8 +72,11 @@
 <h1 align="center">🐍 GitHub Contribution Snake</h1>
 
 <div align="center">
-  <img src="https://github.com/VishveshSharma2005/VishveshSharma2005/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
+  
+  ![GitHub Snake dark](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
+  
 </div>
+
 
 ---
 
