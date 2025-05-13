@@ -1,12 +1,21 @@
 <h1 align="center">Hi there 👋</h1>
-<pre align="center">
-Hi! I'm Vishvesh Sharma, a 3rd-year B.Tech CSE student specializing in AI & ML at GLS University, Ahmedabad.
-💻 I code in HTML5, CSS3, JavaScript, Python, Java, C++, and C — and work across AI/ML models, full-stack apps, and creative Fintech solutions.
-🧠 Passionate about prompt engineering, reverse engineering, and deploying smart tools using platforms like Anaconda, Colab, Jupyter, GitHub, and VS Code.
-🛠️ Tools I work with include PyCharm, Git Terminal, Windows Terminal, MySQL, and AI productivity tools for deployment and automation.
-🌍 I'm comfortable across Linux, Ubuntu, Windows, iOS, and Android, and also enjoy content creation, Photoshop, Canva, and innovative digital design.
-🚀 Always learning, always building — especially around the future of AI, ML, and Fintech. Let's collaborate on impactful tech projects!
-</pre>
+<p align="center">
+  <strong>Hi! I'm Vishvesh Sharma</strong><br>
+  A 3rd-year B.Tech CSE student specializing in <strong>AI & ML</strong> at GLS University, Ahmedabad.
+</p>
+
+<p align="center">
+  💻 I code in <strong>HTML5, CSS3, JavaScript, Python, Java, C++, and C</strong> — and work across AI/ML models, full-stack apps, and creative Fintech solutions.<br><br>
+  
+  🧠 Passionate about <strong>prompt engineering, reverse engineering</strong>, and deploying smart tools using platforms like <strong>Anaconda, Colab, Jupyter, GitHub,</strong> and <strong>VS Code</strong>.<br><br>
+  
+  🛠️ Tools I work with include <strong>PyCharm, Git Terminal, Windows Terminal, MySQL</strong>, and various AI productivity tools for deployment and automation.<br><br>
+  
+  🌍 Comfortable across <strong>Linux, Ubuntu, Windows, iOS, and Android</strong>. I also enjoy <strong>content creation</strong>, <strong>Photoshop</strong>, <strong>Canva</strong>, and digital design.<br><br>
+  
+  🚀 Always learning, always building — especially around the future of <strong>AI, ML, and Fintech</strong>. Let's collaborate on impactful tech projects!
+</p>
+
 
 ---
 
