@@ -1,6 +1,17 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  I'm a 3rd-year B.Tech student specializing in AI and ML from Ahmedabad. I have a strong foundation in various programming languages, including HTML5, CSS3, JavaScript, Python, C++, C, Scratch, JSON, and XML. My technical expertise extends to IT skills such as MySQL, Shell Scripting, Unreal Engine, and Networking. I am proficient in using tools like PyCharm, VS Code, GitHub, Windows Terminal, and platforms like LeetCode and TryHackMe. I work comfortably across multiple operating systems, including Linux, Ubuntu, Windows, and Android. Beyond coding, I enjoy working with Google Sheets, Google Slides, and tools like Photoshop, Lightroom, and VirtualBox. My additional interests include photography and gaming on Steam. I’m always eager to learn, explore new technologies, and collaborate on exciting projects!
+👋 Hi! I'm Vishvesh Sharma, a 3rd-year B.Tech CSE student specializing in AI & ML at GLS University, Ahmedabad.
+
+💻 I code in HTML5, CSS3, JavaScript, Python, Java, C++, and C — and work across AI/ML models, full-stack apps, and creative Fintech solutions.
+
+🧠 Passionate about prompt engineering, reverse engineering, and deploying smart tools using platforms like Anaconda, Colab, Jupyter, GitHub, and VS Code.
+
+🛠️ Tools I work with include PyCharm, Git Terminal, Windows Terminal, MySQL, and AI productivity tools for deployment and automation.
+
+🌍 I'm comfortable across Linux, Ubuntu, Windows, iOS, and Android, and also enjoy content creation, Photoshop, Canva, and innovative digital design.
+
+🚀 Always learning, always building — especially around the future of AI, ML, and Fintech. Let's collaborate on impactful tech projects!
+
 </p>
 
 ---
