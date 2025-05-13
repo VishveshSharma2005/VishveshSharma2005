@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p>
-  <strong>Hi! I'm Vishvesh Sharma</strong> A 3rd-year B.Tech CSE student specializing in <strong>AI & ML</strong> at GLS University, Ahmedabad.<br>
+  <strong>Hi! I'm Vish</strong> a 3rd-year B.Tech CSE student specializing in <strong>AI & ML</strong> at GLS University, Ahmedabad.<br>
 
   I code in <strong>HTML5, CSS3, JavaScript, Python, Java, C++, and C</strong> — and work across AI/ML models, full-stack apps, and creative Fintech solutions.
   Passionate about <strong>prompt engineering, reverse engineering</strong>, and deploying smart tools using platforms like <strong>Anaconda, Colab, Jupyter, GitHub,</strong> and <strong>VS Code</strong>.
