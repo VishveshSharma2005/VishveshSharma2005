@@ -7,7 +7,7 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<div align="center">
+<div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=VishveshSharma2005&show=reviews,discussions_started,prs_merged,&show_icons=true&bg_color=0D1117&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
   <br><br>
