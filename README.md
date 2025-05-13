@@ -13,8 +13,10 @@
   <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VishveshSharma2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   <br><br> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VishveshSharma2005&bg_color=0D1117&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishveshSharma2005&layout=compact&bg_color=0D1117&text_color=ffffff&langs_count=10" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=error_raga_008&bg_color=0D1117&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+    </a>
 
 </div>
 
