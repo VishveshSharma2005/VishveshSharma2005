@@ -91,16 +91,75 @@ Passionate about building <b>AI-powered applications, fintech tools, and scalabl
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-🔹 **AI Stock Market Prediction Model**  
-Machine learning model predicting stock trends using historical data and indicators.
+### 💰 FinAI Advisor – AI Financial Literacy Agent
+AI-powered financial assistant built during my **IBM Internship** using **IBM Watsonx AI Agent** and **RAG architecture**.  
+The system helps users understand **UPI, fraud detection, budgeting, digital payments, and financial basics** through conversational AI.
 
-🔹 **CNN Image Captioning Research Project**  
-Deep learning model generating captions for images using custom CNN architecture.
+**Key Features**
+- Retrieval Augmented Generation (RAG) pipeline
+- Financial literacy chatbot
+- Fraud awareness & budgeting guidance
+- Built on IBM Cloud with Watsonx AI
 
-🔹 **Luxury Car Booking Platform**  
-Full-stack web application for booking luxury vehicles for events and travel.
+🔗 https://github.com/VishveshSharma2005/IBM-Cloud-FinAI_Advisor-Agent-project
+
+---
+
+### 🌫 Ground Level O3 & NO₂ Prediction Model
+Machine Learning pipeline designed to **forecast air pollution gases (O₃ & NO₂)** using meteorological and satellite data.
+
+The system integrates **reanalysis weather data with satellite trace gas observations** to generate **short-term air pollution forecasts (24–48 hours)**.
+
+**Key Features**
+- Meteorological + satellite data fusion
+- Spatio-temporal feature engineering
+- AI model for pollutant forecasting
+- Evaluated using **RMSE, MAE, and Bias**
+
+**Use Case**
+Urban pollution forecasting for megacities such as **Delhi**.
+
+🔗 https://github.com/VishveshSharma2005/Ground_level_O3_No2_prediction_Model
+
+---
+
+### 🌡 Optical Guided Thermal Super-Resolution
+Deep learning pipeline for **enhancing low-resolution thermal infrared imagery using high-resolution optical images**.
+
+Thermal sensors capture temperature but lack spatial detail, while optical sensors provide spatial richness. This project uses **fusion-based super-resolution** to generate **high-resolution thermal maps**.
+
+**Key Features**
+- Multi-sensor image alignment
+- Optical-guided thermal super-resolution
+- Fusion of spatial and thermal modalities
+- Evaluation using **PSNR, SSIM, RMSE**
+
+**Applications**
+- Urban Heat Island analysis
+- Wildfire monitoring
+- Precision agriculture
+
+🔗 https://github.com/VishveshSharma2005/optical_guided_thermal
+
+---
+
+### 🔄 SkillSwap Platform
+A platform where individuals can **showcase their skills and exchange knowledge with others**.
+
+Users create profiles, list their skills, and connect with people who want to learn or collaborate.
+
+**Key Features**
+- Skill-based profile system
+- Community learning marketplace
+- Peer-to-peer collaboration
+- Portfolio showcase
+
+---
+
 
 ---
 
