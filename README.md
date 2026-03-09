@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishvesh Sharma</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | Fintech Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | AI Researcher | Full Stack Developer | Fintech Enthusiast</h3>
 
 <p align="center">
 B.Tech CSE (AI & ML) Student at <b>GLS University, Ahmedabad</b><br>
-Passionate about building <b>AI-powered applications, fintech tools, and scalable web platforms</b>.
+Passionate about building <b>AI-powered systems, fintech solutions, and intelligent data-driven applications</b>.
 </p>
 
 ---
@@ -11,11 +11,36 @@ Passionate about building <b>AI-powered applications, fintech tools, and scalabl
 ## 🚀 About Me
 
 - 🎓 3rd Year **B.Tech CSE (AI & ML)** student  
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Fintech**
-- 💻 Building **AI models, web applications, and automation tools**
-- 📊 Currently working on **AI Stock Market Prediction Models**
-- 🧠 Researching **CNN-based Image Captioning Systems**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Fintech**
+- 💻 Building **AI models, full-stack applications, and automation tools**
+- 📊 Developing **AI-based stock market prediction models**
+- 🧠 Conducting research on **Deep Learning architectures for financial prediction**
 - 🚘 Developing a **Luxury Car Booking Full Stack Platform**
+- 🔬 Exploring **AI research, deep learning optimization, and model convergence analysis**
+
+---
+
+## 🔬 Research Work
+
+### 📈 Convergence Analysis of Deep Learning Architectures for Stock Market Prediction
+
+Conducting research on the **performance and convergence behavior of different deep learning architectures** used for financial time-series prediction.
+
+This research evaluates models such as:
+
+- LSTM
+- BiLSTM
+- Hybrid architectures
+- Transformer-based models
+
+**Research Focus**
+
+- Convergence speed of deep learning models
+- Prediction accuracy comparison
+- Impact of technical indicators on model stability
+- Optimization of architectures for financial forecasting
+
+The goal is to **identify the most stable and accurate architecture for stock price prediction in volatile markets**.
 
 ---
 
@@ -81,46 +106,39 @@ Passionate about building <b>AI-powered applications, fintech tools, and scalabl
 
 ---
 
-## 📌 Current Interests
-
-- Artificial Intelligence & Machine Learning
-- Financial Technology (Fintech)
-- Deep Learning Research
-- Algorithmic Trading Systems
-- Full Stack Web Development
-
----
-
----
-
 ## 🚀 Featured Projects
 
 ### 💰 FinAI Advisor – AI Financial Literacy Agent
-AI-powered financial assistant built during my **IBM Internship** using **IBM Watsonx AI Agent** and **RAG architecture**.  
+AI-powered financial assistant built during my **IBM Internship** using **IBM Watsonx AI Agent** and **RAG architecture**.
+
 The system helps users understand **UPI, fraud detection, budgeting, digital payments, and financial basics** through conversational AI.
 
 **Key Features**
-- Retrieval Augmented Generation (RAG) pipeline
+
+- Retrieval Augmented Generation (RAG)
 - Financial literacy chatbot
-- Fraud awareness & budgeting guidance
-- Built on IBM Cloud with Watsonx AI
+- Fraud awareness and budgeting guidance
+- Built using IBM Cloud and Watsonx AI
 
 🔗 https://github.com/VishveshSharma2005/IBM-Cloud-FinAI_Advisor-Agent-project
 
 ---
 
-### 🌫 Ground Level O3 & NO₂ Prediction Model
-Machine Learning pipeline designed to **forecast air pollution gases (O₃ & NO₂)** using meteorological and satellite data.
+### 🌫 Ground Level O₃ & NO₂ Prediction Model
 
-The system integrates **reanalysis weather data with satellite trace gas observations** to generate **short-term air pollution forecasts (24–48 hours)**.
+Machine learning pipeline for **short-term air pollution forecasting** using meteorological and satellite data.
+
+The system predicts **surface-level ozone (O₃) and nitrogen dioxide (NO₂)** concentrations.
 
 **Key Features**
-- Meteorological + satellite data fusion
+
+- Meteorological and satellite data integration
 - Spatio-temporal feature engineering
-- AI model for pollutant forecasting
-- Evaluated using **RMSE, MAE, and Bias**
+- Machine learning based forecasting
+- Evaluation using **RMSE, MAE, and Bias**
 
 **Use Case**
+
 Urban pollution forecasting for megacities such as **Delhi**.
 
 🔗 https://github.com/VishveshSharma2005/Ground_level_O3_No2_prediction_Model
@@ -128,19 +146,22 @@ Urban pollution forecasting for megacities such as **Delhi**.
 ---
 
 ### 🌡 Optical Guided Thermal Super-Resolution
-Deep learning pipeline for **enhancing low-resolution thermal infrared imagery using high-resolution optical images**.
 
-Thermal sensors capture temperature but lack spatial detail, while optical sensors provide spatial richness. This project uses **fusion-based super-resolution** to generate **high-resolution thermal maps**.
+Deep learning system for **enhancing low-resolution thermal infrared imagery using high-resolution optical imagery**.
+
+The approach performs **fusion-based thermal super-resolution** to produce spatially detailed and thermally accurate temperature maps.
 
 **Key Features**
-- Multi-sensor image alignment
-- Optical-guided thermal super-resolution
-- Fusion of spatial and thermal modalities
+
+- Multi-sensor alignment
+- Optical-guided super-resolution
+- Thermal and spatial modality fusion
 - Evaluation using **PSNR, SSIM, RMSE**
 
 **Applications**
-- Urban Heat Island analysis
-- Wildfire monitoring
+
+- Urban heat island monitoring
+- Wildfire detection
 - Precision agriculture
 
 🔗 https://github.com/VishveshSharma2005/optical_guided_thermal
@@ -148,18 +169,25 @@ Thermal sensors capture temperature but lack spatial detail, while optical senso
 ---
 
 ### 🔄 SkillSwap Platform
-A platform where individuals can **showcase their skills and exchange knowledge with others**.
 
-Users create profiles, list their skills, and connect with people who want to learn or collaborate.
+A community platform where users can **showcase their skills and exchange knowledge with others**.
 
 **Key Features**
-- Skill-based profile system
-- Community learning marketplace
-- Peer-to-peer collaboration
-- Portfolio showcase
+
+- Skill-based user profiles
+- Peer-to-peer knowledge exchange
+- Community collaboration
+- Portfolio showcasing
 
 ---
 
+## 📌 Current Interests
+
+- Artificial Intelligence & Machine Learning  
+- Financial Technology (Fintech)  
+- Deep Learning Research  
+- Algorithmic Trading Systems  
+- AI for Environmental Monitoring  
 
 ---
 
@@ -179,5 +207,5 @@ Users create profiles, list their skills, and connect with people who want to le
 ---
 
 <p align="center">
-✨ <i>Always learning. Always building. Always exploring AI & Fintech.</i>
+✨ <i>Always learning. Always building. Always exploring AI, Research, and Fintech.</i>
 </p>
