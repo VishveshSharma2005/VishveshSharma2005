@@ -193,8 +193,8 @@ A community platform where users can **showcase their skills and exchange knowle
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 📧 Email: *(Add your professional email)*  
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/vishvesh-sharma-8a0184271/)
+- 📧 Email: sharmavishvesh3@gmail.com  
 
 ---
 
